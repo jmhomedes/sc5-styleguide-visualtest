@@ -1,5 +1,5 @@
 {
-  "name": "sc5-styleguide-visualtest",
+  "name": "@jmhomedes/sc5-styleguide-visualtest",
   "version": "1.10.1",
   "description": "Gulp plugin for automatic visual testing SC5 StyleGuide components",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SC5/sc5-styleguide-visualtest.git"
+    "url": "git+https://github.com/jmhomedes/sc5-styleguide-visualtest.git"
   },
   "keywords": [
     "gulpplugin",
