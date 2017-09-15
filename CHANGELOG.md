@@ -1,3 +1,8 @@
+## 1.10.1
+
+* Fix stream processing end signal
+* Omit default chrome-latest browser tests if custom browser config provided
+
 ## 1.10.0
 
 * Feature - selenium support added
