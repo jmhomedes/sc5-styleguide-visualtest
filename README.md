@@ -9,7 +9,7 @@ The screenshots are taken in Chrome via PhantomJS.
 You need to have PhantomJS installed. After that:
 
 ```
-npm install --save-dev sc5-styleguide-visualtest
+npm install --save-dev @jmhomedes/sc5-styleguide-visualtest
 ```
 
 ## Taking the grid screenshots
