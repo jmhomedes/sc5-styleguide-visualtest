@@ -1,3 +1,7 @@
+## 1.11.0
+
+* Update Gemini dependency from 4.4.4 to 4.19.3
+
 ## 1.10.1
 
 * Fix stream processing end signal
